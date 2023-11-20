@@ -166,6 +166,7 @@ section.welcome {
   width: 30%;
   color: white;
   align-items: center;
+  position: relative;
 }
 
 .marque {
@@ -181,4 +182,8 @@ section.welcome {
 p {
   margin: 0;
   font-weight: 600;
+}
+
+.prix-barre {
+  text-decoration: line-through;
 }

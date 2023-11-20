@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useParams } from "react-router-dom";
 import data from "../data.json"; // Assurez-vous d'ajuster le chemin si nécessaire
 import Header from "../Component/Header";
-
+import Stock from "../assets/stock.png";
 const Category = () => {
   const { name } = useParams();
   const [filters, setFilters] = useState({
@@ -118,8 +118,26 @@ const Category = () => {
               alt={item.Marque}
               style={{ width: "100%", height: "100%" }}
             />
+            {item.stock === true ? null : (
+              <img
+                src={Stock}
+                alt={item.Marque}
+                style={{
+                  width: "58%",
+                  height: "47%",
+                  position: "absolute",
+                  top: "37px",
+                }}
+              />
+            )}
+
             <p className="marque">{item.Marque}</p>
-            <p className="prix">Prix : {item.Prix} </p>
+            {item.stock === true ? (
+              <p className="prix">Prix : {item.Prix} </p>
+            ) : (
+              <p className="prix-barre">Prix : {item.Prix} </p>
+            )}
+
             <p className="coffre">Coffre : {item.Coffre} kg</p>
           </li>
         ))}
