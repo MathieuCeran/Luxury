@@ -6,6 +6,7 @@
       "Coffre": 35,
       "image": "https://www.grandtheftauto5.fr/images/vehicules/hd2020/issi-classic.jpg",
       "stock": true
+       
     },
     {
       "Marque": "Issi",
@@ -716,371 +717,371 @@
   "Muscle": [
     {
       "Marque": "Weevil2",
-      "Prix": "$28130,00",
+      "Prix": "$29130,00",
       "Coffre": "/",
       "image": "https://static.wikia.nocookie.net/gtawiki/images/8/8b/WeevilCustom-GTAOe-front.png",
       "stock": true
     },
     {
       "Marque": "Faction",
-      "Prix": "$30624,00",
+      "Prix": "$31624,00",
       "Coffre": 30,
       "image": "https://static.wikia.nocookie.net/gtawiki/images/0/07/Faction-GTAO-front.png",
-      "stock": true
+      "stock": false
     },
     {
       "Marque": "Ratloader",
-      "Prix": "$31600,00",
+      "Prix": "$32600,00",
       "Coffre": 30,
       "image": "https://lh6.googleusercontent.com/q0-95SCPxJNA4fKnSlo-7YtwoOowgW0Q_8HC9J84FuLISemMw_q6uJ76x_275p_Ay9gBvMexBK-e_zeZmbGcOr50_1XPUkOhqYGeqtuoL9280I-4TNbXKOaeYMBfDkLAK6vdj5axq89nUV8WfEH3ciQ",
       "stock": true
     },
     {
       "Marque": "Virgo",
-      "Prix": "$32624,00",
+      "Prix": "$33624,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-albany-virgo2-959266.jpg",
       "stock": true
     },
     {
       "Marque": "Chino",
-      "Prix": "$33000,00",
+      "Prix": "$34000,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-vapid-chino-222600.jpg",
       "stock": true
     },
     {
       "Marque": "Tampa",
-      "Prix": "$34830,00",
+      "Prix": "$35830,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-declasse-tampa-319412.jpg",
       "stock": true
     },
     {
       "Marque": "Virgo Classique custom",
-      "Prix": "$35108,00",
+      "Prix": "$36108,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-dundreary-virgo-classic-custom-960863.jpg",
       "stock": true
     },
     {
       "Marque": "Eudora",
-      "Prix": "$35400,00",
+      "Prix": "$36400,00",
       "Coffre": "/",
       "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/04/the-willard-eudora-dripfeed-vehicle-v0-031ywlbjhj6a1.jpg",
       "stock": true
     },
     {
       "Marque": "Faction custom",
-      "Prix": "$35614,00",
+      "Prix": "$36614,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-willard-faction-custom-gtao-758935.jpg",
       "stock": true
     },
     {
       "Marque": "Dukes",
-      "Prix": "$36624,00",
+      "Prix": "$37624,00",
       "Coffre": 25,
       "image": "https://gtamag.com/images/photo/gta-mag-imponte-dukes-388353.jpg",
       "stock": true
     },
     {
       "Marque": "Impaler",
-      "Prix": "$37410,00",
+      "Prix": "$38410,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-declasse-impaler-307937.jpg",
       "stock": true
     },
     {
       "Marque": "vodoo custom",
-      "Prix": "$37912,00",
+      "Prix": "$38912,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-declasse-voodoo-custom-gtao-019179.jpg",
       "stock": true
     },
     {
       "Marque": "virgo classique",
-      "Prix": "$38728,00",
+      "Prix": "$39728,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-dundreary-virgo-classic-960543.jpg",
       "stock": true
     },
     {
       "Marque": "Peyote Gasser",
-      "Prix": "$44400,00",
+      "Prix": "$45400,00",
       "Coffre": 30,
       "image": "https://cs1.gtaall.eu/attachments/2020-04/original/781e3f287080c3799a68cb40829d79a3d22379d4/11678-GTA5-2020-03-27-12-26-25-41.jpg",
       "stock": true
     },
     {
       "Marque": "Buccaneer",
-      "Prix": "$50000,00",
+      "Prix": "$51000,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-albany-buccaneer-953474.jpg",
       "stock": true
     },
     {
       "Marque": "vodoo",
-      "Prix": "$51334,00",
+      "Prix": "$52334,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-declasse-voodoo-320453.jpg",
       "stock": true
     },
     {
       "Marque": "Chino Custom",
-      "Prix": "$51334,00",
+      "Prix": "$52334,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-vapid-chino-custom-222926.jpg",
       "stock": true
     },
     {
       "Marque": "Vamos",
-      "Prix": "$51410,00",
+      "Prix": "$52410,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-declasse-vamos2-320290.jpg",
       "stock": true
     },
     {
       "Marque": "Vigero",
-      "Prix": "$55690,00",
+      "Prix": "$56690,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-declasse-vigero-320801.jpg",
       "stock": true
     },
     {
       "Marque": "Slamvan",
-      "Prix": "$59312,00",
+      "Prix": "$60312,00",
       "Coffre": 120,
       "image": "https://gtamag.com/images/photo/gta-mag-vapid-slamvan-custom-gtao-668816.jpg",
       "stock": true
     },
     {
       "Marque": "Moonbeam",
-      "Prix": "$63260,00",
+      "Prix": "$64260,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-declasse-moonbeam2-316541.jpg",
       "stock": true
     },
     {
       "Marque": "Yosemite",
-      "Prix": "$64324,00",
+      "Prix": "$65324,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-declasse-yosemite-321310.jpg",
       "stock": true
     },
     {
       "Marque": "Gauntlet",
-      "Prix": "$64474,00",
+      "Prix": "$65474,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-GauntletHellfire-937412.jpg",
       "stock": true
     },
     {
       "Marque": "Buccaneer2",
-      "Prix": "$66000,00",
+      "Prix": "$67000,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-albany-buccaneer2-953474.jpg",
       "stock": true
     },
     {
       "Marque": "Phoenix",
-      "Prix": "$66400,00",
+      "Prix": "$67400,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-imponte-phoenix-388605.jpg",
       "stock": true
     },
     {
       "Marque": "Nightshade",
-      "Prix": "$68680,00",
+      "Prix": "$69680,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-imponte-nightshade-388511.jpg",
       "stock": true
     },
     {
       "Marque": "Slamvan Custom",
-      "Prix": "$70024,00",
+      "Prix": "$71024,00",
       "Coffre": 120,
       "image": "https://gtamag.com/images/photo/gta-mag-vapid-slamvan-custom-gtao-668816.jpg",
       "stock": true
     },
     {
       "Marque": "Tulip2",
-      "Prix": "$70200,00",
+      "Prix": "$71200,00",
       "Coffre": "/",
       "image": "https://gtamag.com/images/photo/gta-mag-declasse-tulip-320168.jpg",
       "stock": true
     },
     {
       "Marque": "Greenwood",
-      "Prix": "$72000,00",
+      "Prix": "$73000,00",
       "Coffre": 50,
       "image": "https://gtamag.com/images/photo/gta-mag-bravado-greenwood2-gtao-953898.jpeg",
       "stock": true
     },
     {
       "Marque": "Manana custom",
-      "Prix": "$72120,00",
+      "Prix": "$73120,00",
       "Coffre": "/",
       "image": "https://gtamag.com/images/photo/gta-mag-albany-manana-custom-gtao-226307.jpg",
       "stock": true
     },
     {
       "Marque": "Picador",
-      "Prix": "$72830,00",
+      "Prix": "$73830,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-Picador-935174.jpg",
       "stock": true
     },
     {
       "Marque": "Sabre turbo",
-      "Prix": "$78194,00",
+      "Prix": "$79194,00",
       "Coffre": 25,
       "image": "https://gtamag.com/images/photo/gta-mag-declasse-sabre-turbo2-318239.jpg",
       "stock": true
     },
     {
       "Marque": "Moonbeam Custom",
-      "Prix": "$88754,00",
+      "Prix": "$89754,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-declasse-moonbeam-custom-316809.jpg",
       "stock": true
     },
     {
       "Marque": "Blade",
-      "Prix": "$94000,00",
+      "Prix": "$95000,00",
       "Coffre": 25,
       "image": "https://staticg.sportskeeda.com/editor/2022/10/27d21-16662763990351.png?w=840",
       "stock": true
     },
     {
       "Marque": "Yosemite Drift",
-      "Prix": "$96098,00",
+      "Prix": "$97098,00",
       "Coffre": "/",
       "image": "https://gtamag.com/images/photo/gta-mag-declasse-drift-yosemite2-305820.jpg",
       "stock": true
     },
     {
       "Marque": "Gauntlet Classique",
-      "Prix": "$97400,00",
+      "Prix": "$98400,00",
       "Coffre": "/",
       "image": "https://gtamag.com/images/photo/gta-mag-GauntletClassic-937286.jpg",
       "stock": true
     },
     {
       "Marque": "Faction Cust Donk",
-      "Prix": "$108000,00",
+      "Prix": "$110000,00",
       "Coffre": 40,
       "image": "https://gtamag.com/images/photo/gta-mag-willard-faction-custom-donk2-gtao-759194.jpg",
       "stock": true
     },
     {
       "Marque": "Sabre turbo Custom",
-      "Prix": "$108948,00",
+      "Prix": "$110948,00",
       "Coffre": 25,
       "image": "https://gtamag.com/images/photo/gta-mag-declasse-sabre-turbo-custom2-318476.jpg",
       "stock": true
     },
     {
       "Marque": "Ellie",
-      "Prix": "$112200,00",
+      "Prix": "$114200,00",
       "Coffre": 30,
       "image": "https://cs1.gtaall.eu/attachments/2018-06/original/895f8d127373fc49a13aaf51f96e59985e427c74/8795-GTA5-2018-05-14-13-17-21-17.jpg",
       "stock": true
     },
     {
       "Marque": "Dominator GTX",
-      "Prix": "$116800,00",
+      "Prix": "$118800,00",
       "Coffre": 30,
       "image": "https://i.redd.it/4tw32hsvy3f81.jpg",
       "stock": true
     },
     {
       "Marque": "Gauntlet Hellfire",
-      "Prix": "$122400,00",
+      "Prix": "$124400,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-GauntletHellfire-937412.jpg",
       "stock": true
     },
     {
       "Marque": "Broadway",
-      "Prix": "$123000,00",
+      "Prix": "$125000,00",
       "Coffre": "/",
       "image": "https://pbs.twimg.com/media/FohAqyMX0AEh_uZ.jpg",
       "stock": true
     },
     {
       "Marque": "Hustler",
-      "Prix": "$123324,00",
+      "Prix": "$125324,00",
       "Coffre": 30,
       "image": "https://img.gta5-mods.com/q95/images/vapid-hustler-gasser-add-on-tuning-animated/b941f5-EVE-20200504055737.005.jpg",
       "stock": true
     },
     {
       "Marque": "Dominator",
-      "Prix": "$128800,00",
+      "Prix": "$130800,00",
       "Coffre": 30,
       "image": "https://staticg.sportskeeda.com/editor/2023/03/0cb68-16794887085814-1920.jpg?w=840",
       "stock": true
     },
     {
       "Marque": "Hermes",
-      "Prix": "$132198,00",
+      "Prix": "$134198,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-albany-hermes2-955405.jpg",
       "stock": true
     },
     {
       "Marque": "Vigero2",
-      "Prix": "$140436,00",
+      "Prix": "$142436,00",
       "Coffre": "/",
       "image": "https://gtamag.com/images/photo/gta-mag-declasse-vigero2-320801.jpg",
       "stock": true
     },
     {
       "Marque": "Ruiner4",
-      "Prix": "$148504,00",
+      "Prix": "$150504,00",
       "Coffre": "/",
       "image": "https://staticg.sportskeeda.com/editor/2023/04/5d090-16825762895120-1920.jpg?w=840",
       "stock": true
     },
     {
       "Marque": "Dominator ASP",
-      "Prix": "$156800,00",
+      "Prix": "$158800,00",
       "Coffre": "/",
       "image": "https://gtamag.com/images/photo/gta-mag-vapid-dominator-asp2-gtao-218124.jpg",
       "stock": true
     },
     {
       "Marque": "Tulip",
-      "Prix": "$163400,00",
+      "Prix": "$165400,00",
       "Coffre": 80,
       "image": "https://img.gta5-mods.com/q75/images/declasse-tulip-ss-add-on-tuning/fefd56-Grand_Theft_Auto_V_Screenshot_2019.08.18_-_07.46.15.77.jpg",
       "stock": true
     },
     {
       "Marque": "Hotknife",
-      "Prix": "$172198,00",
+      "Prix": "$174198,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-vapid-hotknife-475291.jpg",
       "stock": true
     },
     {
       "Marque": "Dominator GTT",
-      "Prix": "$175400,00",
+      "Prix": "$177400,00",
       "Coffre": "/",
       "image": "https://gtamag.com/images/photo/gta-mag-vapid-dominator-gtt2-gtao-793099.jpg",
       "stock": true
     },
     {
       "Marque": "Coquette Blackfin",
-      "Prix": "$199400,00",
+      "Prix": "$201400,00",
       "Coffre": 25,
       "image": "https://gtamag.com/images/photo/gta-mag-invetero-coquette-blackfin-323005.jpg",
       "stock": true
     },
     {
       "Marque": "Buffalo STX",
-      "Prix": "$297000,00",
+      "Prix": "$299000,00",
       "Coffre": 50,
       "image": "https://gtamag.com/images/photo/gta-mag-bravado-buffalo-stx2-gtao-486497.jpg",
       "stock": true
