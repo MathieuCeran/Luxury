@@ -5,8 +5,7 @@
       "Prix": "$15700,00",
       "Coffre": 35,
       "image": "https://www.grandtheftauto5.fr/images/vehicules/hd2020/issi-classic.jpg",
-      "stock": true
-       
+      "stock": true      
     },
     {
       "Marque": "Issi",
@@ -95,10 +94,108 @@
       "stock": true
     },
     {
+      "Marque": "Glendale",
+      "Prix": "$125000,00",
+      "Coffre": 25,
+      "image": "https://cs4.gtaall.eu/attachments/d4861/2015-04/original/f828d725fc54f6e34eaa5164de159eb1a156a665/3373-benefactor-glendale.jpg",
+      "stock": true 
+    },
+    {
+      "Marque": "Schafter",
+      "Prix": "$127550,00",
+      "Coffre": 40,
+      "image": "https://static.wikia.nocookie.net/degta/images/a/a5/Schafter_V.jpg",
+      "stock": true
+    },
+    {
+      "Marque": "Tailgater",
+      "Prix": "$151000,00",
+      "Coffre": 40,
+      "image": "https://static.wikia.nocookie.net/gtawiki/images/e/e1/Tailgater-GTAV-front.png",
+      "stock": true
+    },
+    {
+      "Marque": "Cognoscenti 55",
+      "Prix": "$152400,00",
+      "Coffre": 60,
+      "image": "https://static.wikia.nocookie.net/degta/images/f/ff/Cognoscenti-GTAO-front.png",
+      "stock": true
+    },
+    {
+      "Marque": "Super Diamond",
+      "Prix": "$157748,00",
+      "Coffre": 40,
+      "image": "https://cs2.gtaall.eu/attachments/d4861/2015-04/original/786ba8a84ad48d632ee95cc8d7fa80796b8c585f/3355-enus-super-diamond.jpg",
+      "stock": true
+    },
+    {
+      "Marque": "Stafford",
+      "Prix": "$161296,00",
+      "Coffre": 40,
+      "image": "https://static.wikia.nocookie.net/gtawiki/images/3/38/Stafford-GTAO-front.png",
+      "stock": true
+    },
+    {
+      "Marque": "Cognoscenti",
+      "Prix": "$196200,00",
+      "Coffre": 60,
+      "image": "https://i.imgur.com/XnlkMAN.jpg",
+      "stock": true
+    },
+    {
+      "Marque": "Stretch",
+      "Prix": "$198614,00",
+      "Coffre": 40,
+      "image": "https://staticg.sportskeeda.com/editor/2022/11/e7ff2-16690497636100.png",
+      "stock": true
+    },
+    {
+      "Marque": "Glendale Custom",
+      "Prix": "$220600,00",
+      "Coffre": 25,
+      "image": "https://static.wikia.nocookie.net/gtawiki/images/5/50/GlendaleCustom-GTAO-front.png",
+      "stock": true
+    },
+    {
+      "Marque": "Tailgater S",
+      "Prix": "$258000,00",
+      "Coffre": 40,
+      "image": "https://static.wikia.nocookie.net/gtawiki/images/8/83/TailgaterS-GTAO-front.png",
+      "stock": true
+    },
+    {
+      "Marque": "Deity",
+      "Prix": "$300000,00",
+      "Coffre": 100,
+      "image": "https://static.wikia.nocookie.net/gtawiki/images/9/96/Deity-GTAOe-front.png",
+      "stock": true
+    },
+    {
+      "Marque": "Cinquemila",
+      "Prix": "$398000,00",
+      "Coffre": 100,
+      "image": "https://static.wikia.nocookie.net/gtawiki/images/b/b1/Cinquemila-GTAOe-front.png",
+      "stock": true
+    },
+    {
       "Marque": "Warrener HKR",
       "Prix": "$26000,00",
       "Coffre": "/",
       "image": "https://www.grandtheftauto5.fr/images/vehicules/hd2020/warrener-hkr.jpg",
+      "stock": true
+    },
+    {
+      "Marque": "Primo",
+      "Prix": "$140800,00",
+      "Coffre": 40,
+      "image": "https://static.wikia.nocookie.net/gtawiki/images/1/10/Primo-GTAV-front.png",
+      "stock": true
+    },
+    {
+      "Marque": "Primo CUSTOM",
+      "Prix": "$196020,00",
+      "Coffre": 40,
+      "image": "https://i.imgur.com/AqSLpeE.jpg",
       "stock": true
     },
     {
@@ -240,7 +337,7 @@
       "Marque": "Boor",
       "Prix": "$46000,00",
       "Coffre": "/",
-      "image": "https://img.gta5-mods.com/q95/images/karin-boor-widebody-add-on-tuning-sounds-lods/e77f07-2.jpg",
+      "image": "https://static.wikia.nocookie.net/gtawiki/images/2/22/Boor-GTAOe-front.png",
       "stock": true
     },
     {
@@ -349,6 +446,13 @@
       "stock": true
     },
     {
+      "Marque": "DuneLoader",
+      "Prix": "$57000,00",
+      "Coffre": 200,
+      "image": "https://img.gta5-mods.com/q95/images/duneloader-crew-cab-replace/e48ff6-34.png",
+      "stock": true
+    },
+    {
       "Marque": "Contender",
       "Prix": "$161000,00",
       "Coffre": 300,
@@ -362,7 +466,7 @@
       "Prix": "$13290,00",
       "Coffre": 150,
       "image": "https://www.grandtheftauto5.fr/images/vehicules/hd2020/beejay-xl.jpg",
-      "stock": false
+      "stock": true
     },
     {
       "Marque": "Radius",
@@ -390,7 +494,7 @@
       "Prix": "$39550,00",
       "Coffre": 120,
       "image": "https://www.grandtheftauto5.fr/images/vehicules/hd2020/gresley.jpg",
-      "stock": false
+      "stock": true
     },
     {
       "Marque": "Granger",
@@ -481,6 +585,20 @@
       "Prix": "$111800,00",
       "Coffre": 150,
       "image": "https://static.wikia.nocookie.net/gtawiki/images/5/57/Cavalcade-GTAVe-front.png",
+      "stock": true
+    },
+    {
+      "Marque": "Cavalcade 2",
+      "Prix": "$151000,00",
+      "Coffre": 150,
+      "image": "https://i.imgur.com/qYNyWz1.png",
+      "stock": true
+    },
+    {
+      "Marque": "Dubsta",
+      "Prix": "$169324,00",
+      "Coffre": 120,
+      "image": "https://static.wikia.nocookie.net/gtawiki/images/c/c0/Dubsta-GTAV-front.png",
       "stock": true
     },
     {
@@ -598,6 +716,13 @@
       "stock": true
     },
     {
+      "Marque": "Sentinel",
+      "Prix": "$147194,00",
+      "Coffre": 70,
+      "image": "https://static.wikia.nocookie.net/gtawiki/images/a/ab/Sentinel-GTAV-front.png",
+      "stock": true
+    },
+    {
       "Marque": "Previon",
       "Prix": "$82840,00",
       "Coffre": "/",
@@ -691,6 +816,13 @@
       "stock": true
     },
     {
+      "Marque": "VWfoodtruck (entreprise)",
+      "Prix": "$43000,00",
+      "Coffre": 150,
+      "image": "https://image.noelshack.com/fichiers/2023/48/4/1701360529-vwfoodtruck.png",
+      "stock": true
+    },
+    {
       "Marque": "Rumpobox",
       "Prix": "$40000,00",
       "Coffre": 300,
@@ -727,7 +859,14 @@
       "Prix": "$31624,00",
       "Coffre": 30,
       "image": "https://static.wikia.nocookie.net/gtawiki/images/0/07/Faction-GTAO-front.png",
-      "stock": false
+      "stock": true
+    },
+    {
+      "Marque": "Stallion",
+      "Prix": "$74000,00",
+      "Coffre": 30,
+      "image": "https://static.wikia.nocookie.net/gtawiki/images/0/00/Stallion-GTAV-front.png",
+      "stock": true
     },
     {
       "Marque": "Ratloader",
@@ -748,6 +887,20 @@
       "Prix": "$34000,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-vapid-chino-222600.jpg",
+      "stock": true
+    },
+    {
+      Marque": "Chino 4 places",
+      "Prix": "$45000,00",
+      "Coffre": "/",
+      "image": "https://image.noelshack.com/fichiers/2023/48/4/1701355691-chino-4seat.png",
+      "stock": true
+    },
+    {
+       Marque": "Chino2 4 places",
+      "Prix": "$64000,00",
+      "Coffre": "/",
+      "image": "https://image.noelshack.com/fichiers/2023/48/4/1701355691-chino2-4seat.png",
       "stock": true
     },
     {
@@ -818,6 +971,13 @@
       "Prix": "$51000,00",
       "Coffre": 30,
       "image": "https://gtamag.com/images/photo/gta-mag-albany-buccaneer-953474.jpg",
+      "stock": true
+    },
+    {
+      "Marque": "Buccaneer2 4 places",
+      "Prix": "$78000,00",
+      "Coffre": "/",
+      "image": "https://image.noelshack.com/fichiers/2023/48/4/1701355691-buccaneer2-4seat.png",
       "stock": true
     },
     {
@@ -940,6 +1100,13 @@
       "stock": true
     },
     {
+      "Marque": "SabreGT2 4 places",
+      "Prix": "$,121000",
+      "Coffre": "/",
+      "image": "https://image.noelshack.com/fichiers/2023/48/4/1701359384-sabregt2-4seat.png",
+      "stock": true
+    },
+    {
       "Marque": "Moonbeam Custom",
       "Prix": "$89754,00",
       "Coffre": 30,
@@ -1021,6 +1188,20 @@
       "Prix": "$130800,00",
       "Coffre": 30,
       "image": "https://staticg.sportskeeda.com/editor/2023/03/0cb68-16794887085814-1920.jpg?w=840",
+      "stock": true
+    },
+    {
+      "Marque": "Dominator7 4 places",
+      "Prix": "$169000,00",
+      "Coffre": "/",
+      "image": "https://image.noelshack.com/fichiers/2023/48/4/1701355691-dominator7-4seat.png",
+      "stock": true
+    },
+    {
+      "Marque": "Dominator8 4 places",
+      "Prix": "$189000,00",
+      "Coffre": "/",
+      "image": "https://image.noelshack.com/fichiers/2023/48/4/1701355691-dominator8-4seat.png",
       "stock": true
     },
     {
@@ -1114,7 +1295,7 @@
       "Prix": "$28970,00",
       "Coffre": 150,
       "image": "https://www.grandtheftauto5.fr/images/vehicules/hd2020/bison.jpg",
-      "stock": false
+      "stock": true
     },
     {
       "Marque": "Bison3",
@@ -1235,7 +1416,7 @@
       "Prix": "$17006,00",
       "Coffre": 80,
       "image": "https://www.grandtheftauto5.fr/images/vehicules/hd2020/nebula-turbo.jpg",
-      "stock": false
+      "stock": true
     },
     {
       "Marque": "Tornado Mariachi",
@@ -1455,6 +1636,13 @@
       "stock": true
     },
     {
+      "Marque": "Btype",
+      "Prix": "$303000,00",
+      "Coffre": 25,
+      "image": "https://static.wixstatic.com/media/45404c_4ea33a88a5fb473493149cc0ed01f53d~mv2.png/v1/fill/w_500,h_333,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/45404c_4ea33a88a5fb473493149cc0ed01f53d~mv2.png",
+      "stock": true
+    },
+    {
       "Marque": "Btype3",
       "Prix": "$373992,00",
       "Coffre": 25,
@@ -1503,6 +1691,20 @@
       "Prix": "$209898,00",
       "Coffre": 25,
       "image": "https://www.grandtheftauto5.fr/images/vehicules/hd2020/sc1.jpg",
+      "stock": true
+    },
+    {
+      "Marque": "Sultan RS",
+      "Prix": "$394000,00",
+      "Coffre": 25,
+      "image": "https://gtwfilesie.grandtheftwiki.com/SultanRS-GTAIV-front.jpg",
+      "stock": true
+    },
+    {
+      "Marque": "Penetrator",
+      "Prix": "$656000,00",
+      "Coffre": 25,
+      "image": "https://www.gta5rides.com/vehicleimages/cropped/penetrator.jpg.jpg",
       "stock": true
     },
     {
@@ -1646,7 +1848,7 @@
       "stock": true
     },
     {
-      "Marque": "Kreiger",
+      "Marque": "Krieger",
       "Prix": "$459794,00",
       "Coffre": 25,
       "image": "https://www.grandtheftauto5.fr/images/vehicules/hd2020/krieger.jpg",
@@ -1774,6 +1976,13 @@
   ],
   "Sports": [
     {
+      "Marque": "Ariant",
+      "Prix": "$356000,00",
+      "Coffre": "/",
+      "image": "https://image.noelshack.com/fichiers/2023/48/4/1701360529-ariant.png",
+      "stock": true
+    },
+    {      
       "Marque": "Blista compact",
       "Prix": "$17000,00",
       "Coffre": 50,
@@ -1838,7 +2047,7 @@
     },
     {
       "Marque": "Elegy Rétro Custom",
-      "Prix": "$88200,00",
+      "Prix": "$97200,00",
       "Coffre": "/",
       "image": "https://www.grandtheftauto5.fr/images/vehicules/hd2020/elegy-retro-custom.jpg",
       "stock": true
@@ -1865,7 +2074,7 @@
       "stock": true
     },
     {
-      "Marque": "Sentinel",
+      "Marque": "Sentinel Classique",
       "Prix": "$105830,00",
       "Coffre": 50,
       "image": "https://www.grandtheftauto5.fr/images/vehicules/hd2020/sentinel-classic.jpg",
@@ -1896,7 +2105,7 @@
       "Marque": "Tropos Rallye",
       "Prix": "$135474,00",
       "Coffre": "/",
-      "image": "https://www.grandtheftauto5.fr/images/vehicules/hd2020/tropos.jpghttps://www.grandtheftauto5.fr/images/vehicules/hd2020/tropos.jpg",
+      "image": "https://static.wikia.nocookie.net/gtawiki/images/e/e8/TroposRallye-GTAO-FrontQuarter.png",
       "stock": true
     },
     {
@@ -2124,6 +2333,20 @@
       "stock": true
     },
     {
+      "Marque": "Sultan RS Classique",
+      "Prix": "$278000,00",
+      "Coffre": 50,
+      "image": "https://static.wikia.nocookie.net/gtawiki/images/4/45/SultanRSClassic-GTAO-front.png",
+      "stock": true
+    },
+    {
+      "Marque": "Sultan Classique",
+      "Prix": "$316000,00",
+      "Coffre": 50,
+      "image": "https://static.wikia.nocookie.net/gtawiki/images/f/f3/SultanClassic-GTAO-front.png",
+      "stock": true
+    },
+    {
       "Marque": "8F Drafter",
       "Prix": "$308000,00",
       "Coffre": 50,
@@ -2183,7 +2406,7 @@
       "Marque": "Schlagen GT",
       "Prix": "$350048,00",
       "Coffre": 50,
-      "image": "https://img.gta5-mods.com/q95/images/benefactor-schlagen-str-safety-car/8ac809-schlastr2_7.jpg",
+      "image": "https://cs1.gtaall.eu/attachments/d4861/2020-04/original/30a8e4e3f0802ae532ce0e8c72b8747c81a7efee/11553-GTA5-2020-03-18-12-47-06-99.jpg",
       "stock": true
     },
     {
