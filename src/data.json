@@ -5,7 +5,7 @@
       "Prix": "$15700,00",
       "Coffre": 35,
       "image": "https://www.grandtheftauto5.fr/images/vehicules/hd2020/issi-classic.jpg",
-      "stock": true      
+      "stock": true
     },
     {
       "Marque": "Issi",
@@ -98,7 +98,7 @@
       "Prix": "$125000,00",
       "Coffre": 25,
       "image": "https://cs4.gtaall.eu/attachments/d4861/2015-04/original/f828d725fc54f6e34eaa5164de159eb1a156a665/3373-benefactor-glendale.jpg",
-      "stock": true 
+      "stock": true
     },
     {
       "Marque": "Schafter",
@@ -890,14 +890,14 @@
       "stock": true
     },
     {
-      Marque": "Chino 4 places",
+      "Marque": "Chino 4 places",
       "Prix": "$45000,00",
       "Coffre": "/",
       "image": "https://image.noelshack.com/fichiers/2023/48/4/1701355691-chino-4seat.png",
       "stock": true
     },
     {
-       Marque": "Chino2 4 places",
+      "Marque": "Chino2 4 places",
       "Prix": "$64000,00",
       "Coffre": "/",
       "image": "https://image.noelshack.com/fichiers/2023/48/4/1701355691-chino2-4seat.png",
@@ -1982,7 +1982,7 @@
       "image": "https://image.noelshack.com/fichiers/2023/48/4/1701360529-ariant.png",
       "stock": true
     },
-    {      
+    {
       "Marque": "Blista compact",
       "Prix": "$17000,00",
       "Coffre": 50,
